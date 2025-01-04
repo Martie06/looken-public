@@ -21,18 +21,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/looken-public/articles/bane-nor-tror-de-har-funnet-%C3%A5rsaken-til-togkaoset/</loc>
-    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/looken-public/articles/multiple-authors-test/</loc>
-    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/looken-public/articles/first-blog-post/</loc>
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
