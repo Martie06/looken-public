@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Løken</title>
+    <link>http://localhost:1313/looken-public/tags/</link>
+    <description>Recent content in Tags on Løken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>martin.buchholz@vy.no (Løken)</managingEditor>
+    <webMaster>martin.buchholz@vy.no (Løken)</webMaster>
+    <copyright>&amp;copy; 2025 Martin Buchholz. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/looken-public/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Høytid</title>
+      <link>http://localhost:1313/looken-public/tags/h%C3%B8ytid/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>martin.buchholz@vy.no (Løken)</author>
+      <guid>http://localhost:1313/looken-public/tags/h%C3%B8ytid/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nyttår</title>
+      <link>http://localhost:1313/looken-public/tags/nytt%C3%A5r/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>martin.buchholz@vy.no (Løken)</author>
+      <guid>http://localhost:1313/looken-public/tags/nytt%C3%A5r/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jernbane</title>
+      <link>http://localhost:1313/looken-public/tags/jernbane/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <author>martin.buchholz@vy.no (Løken)</author>
+      <guid>http://localhost:1313/looken-public/tags/jernbane/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
